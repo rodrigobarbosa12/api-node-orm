@@ -3,19 +3,6 @@
     Api template with ORM
 </h1>
 
-# 💻 Commands
-### typeorm command list
-    yarn typeorm
-    
-### Create table 
-    yarn typeorm migration:create -n create_nomeDaTabela
- 
-### Run migration
-    yarn typeorm migration:run
-
-### Revert migration
-    yarn typeorm migration:revert
-
 # 🤹‍ ORM installation and configuration - Step by step
 ### 1st Step - CONNECTION
 
@@ -100,3 +87,16 @@
 #### 3 - Siga conforme as models User e Skill para criar o relacionamento OneToMany
 
 
+
+# 💻 Commands
+### typeorm command list
+    yarn typeorm
+    
+### Create table 
+    yarn typeorm migration:create -n create_nomeDaTabela
+ 
+### Run migration
+    yarn typeorm migration:run
+
+### Revert migration
+    yarn typeorm migration:revert
