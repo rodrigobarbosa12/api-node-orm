@@ -3,6 +3,11 @@
     Api template with ORM
 </h1>
 
+<p align="center">
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-commands">Commands</a>
+</p>
+
 # 🤹‍ ORM installation and configuration - Step by step
 ### 1st Step - CONNECTION
 
@@ -86,6 +91,15 @@
 
 #### 3 - Siga conforme as models User e Skill para criar o relacionamento OneToMany
 
+
+## 👨‍💻 Technologies
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Node.js](https://nodejs.org/en/)
+- [Typeorm](https://typeorm.io/)
+- [Expo](https://expo.io/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 
 # 💻 Commands
